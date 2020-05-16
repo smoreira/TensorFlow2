@@ -1,4 +1,4 @@
-!(<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6666790560654798848" height="474" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>)
+https://www.linkedin.com/posts/sandro-moreira_machinelearning-activity-6666790627478425600-7w6r/
 
 Dataset adaptado de : https://www.kaggle.com/vtech6/medical-masks-dataset
 
